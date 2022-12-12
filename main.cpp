@@ -2,7 +2,7 @@
 #include "lib.h"
 using namespace std;
 int main() {
-   int n;
+   int n; 
    cin>>n;
    float a[n],m;
    for (int c=0;c<n;c++){
